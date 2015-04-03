@@ -1,0 +1,30 @@
+<!--index.html, abridged -->
+
+h1 {
+	background-color: gray;
+	font-size: 45px;
+}
+
+h2 {
+	background-color: purple;
+	font-size: 35px;
+}
+
+.hello {
+	color: white;
+	background-color: black; 
+	text-align: center;
+	height: 28px;
+	font-size: 25px;
+}
+
+.sample {
+	font-size:20px;
+}
+
+.blue {
+	background-color: blue;
+	color: lightgray;
+}
+
+  

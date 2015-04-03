@@ -1,0 +1,24 @@
+Last login: Tue Mar 31 21:18:48 on ttys000
+Eyras-MacBook-Pro:~ eyradzakuma$ pwd
+/Users/eyradzakuma
+Eyras-MacBook-Pro:~ eyradzakuma$ cd Desktop
+Eyras-MacBook-Pro:Desktop eyradzakuma$ mkdir Eyra_Directory
+Eyras-MacBook-Pro:Desktop eyradzakuma$ mv mine ~/Desktop/Eyra_Directory
+Eyras-MacBook-Pro:Desktop eyradzakuma$ cd Eyra_Directory
+Eyras-MacBook-Pro:Eyra_Directory eyradzakuma$ ls
+mine
+Eyras-MacBook-Pro:Eyra_Directory eyradzakuma$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
