@@ -1,0 +1,36 @@
+ul.nav{
+	list-style: none;
+	height: 50px;
+}
+
+ul.nav li{
+	list-style: none; 
+	display: inline;
+	padding: 10px 10px;
+	border: 2px solid black;
+	margin: 30px;
+	background-color: lightblue;
+}
+
+ul.nav li:hover{
+	background-color: blue;
+	color: white;
+}
+
+/*ul.nav-link li {
+	display: inline;
+}*/
+
+.button-link{
+	padding: 10px 12px;
+	border: 1px solid aqua;
+	color: aqua;
+	background-color: blue;
+	text-decoration: none;
+	display: inline-block;
+	border-radies: 5px;
+}
+
+.button-link: hover{
+	margin: 2px 0 0 2 px;
+}
